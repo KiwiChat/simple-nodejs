@@ -1,0 +1,16 @@
+{
+  "name": "simple-nodejs",
+  "version": "1.0.0",
+  "description": "Simple Node.js",
+  "author": "First Last <kiwichat@email.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+  "node": "15.10.0"
+},
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
